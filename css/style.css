@@ -326,8 +326,13 @@ width: 20%;
 }
 
 .gameplay-video{
-  border: 0px ;
-  padding-left: 15em;
+  border-style: groove ; 
+  border-width: 3px;
+  border-color:#463f32;
+  border-radius: 10px;
+  margin-left: 15rem;
+  width: 960px;
+  height: 520px;
 }
 
 .buy-it{
@@ -364,6 +369,8 @@ width: 20%;
   border-color:#463f32;
   border-radius: 10px;
   margin-left: 15rem;
+  width: 960px;
+  height: 520px;
 }
 
 .the-form{
